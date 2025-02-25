@@ -58,6 +58,7 @@ input {
   display: inline-block;
   width: 100%;
   padding: 1rem 1rem;
+  font-family: "Poppins", serif;
   font-size: 1rem;
   text-align: center;
   border-radius: 10px;

@@ -22,7 +22,7 @@ body {
 
 .newsletter {
   text-align: center;
-  padding: 5vh 0;
+  margin-top: 10vh;
 }
 
 .logo {
@@ -115,10 +115,10 @@ input[type="submit"] {
 @media (min-width: 1240px) {
 
   .description {
-    width: 550px;
+    width: 600px;
   }
 
-  .form {
+  form {
     width: 440px;
   }
 }
